@@ -73,8 +73,6 @@ You can choose your preferred service (e.g., [Netlify](https://www.netlify.com/)
 
     Replace `yourusername` with your GitHub username and `your-repo-name` with the name of your GitHub repository.
 
-    Replace `https://yourusername.github.io/your-repo-name` with `.` if you are using Vercel as your preferred service for deployment.
-
 4. **Deploy to GitHub Pages**
 
     Run the following command to deploy your app:
